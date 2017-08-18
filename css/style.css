@@ -1,0 +1,38 @@
+
+.title{
+	font-family: 'Abril Fatface', cursive;
+}
+.container{
+	background-color:#fff;	
+}
+.jumbotron{
+	text-align: center;
+	background-color: #eee;
+ 
+}
+.mainheading{
+	text-align: center;
+	font-weight: bold;
+}
+
+.sub-title{
+	font-family: Lobster, cursive;
+}
+.content{
+	font-family:'Cormorant Infant', serif; 
+	font-size: 1.5em;
+	color: #000;
+	text-align: justify;
+}
+
+h3{
+	font-weight: bold;
+}
+
+.quote{
+	background-color: #eee;
+}
+
+a{
+	font-size: 1.6em;
+}	
